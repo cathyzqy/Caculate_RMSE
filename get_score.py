@@ -117,7 +117,7 @@ def get_train_throughput_rmse_prp():
 
 
 if __name__ == '__main__':
-    get_real_throughput_rmse_mrp()
-    get_real_throughput_rmse_prp()
+    # get_real_throughput_rmse_mrp()
+    # get_real_throughput_rmse_prp()
     get_train_throughput_rmse_mrp()
     get_train_throughput_rmse_prp()
