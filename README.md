@@ -1,4 +1,4 @@
-# Caculate_RMSE
+# Calculate_RMSE
 
 1. #### Run dynamic transfer.
 
